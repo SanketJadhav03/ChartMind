@@ -44,7 +44,7 @@ ChartMind/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/chartmind.git
+git clone https://github.com/SanketJadhav03/chartmind.git
 cd ChartMind
 
 # Create a virtual environment
@@ -63,9 +63,9 @@ streamlit run main.py
 
 📧 Contact
 Made with ❤️ by Sanket
-Email: sanket@example.com
+Email: jadahvsanket1303@example.com
 LinkedIn: [Your LinkedIn URL]
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SanketJadhav03
 
 ---
 
